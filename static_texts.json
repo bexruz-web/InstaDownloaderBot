@@ -1,0 +1,9 @@
+{
+  "startText1": "👋 Salom <b>{}!</b> \n😊 <b>Instagram Downloader</b> botimizga xush kelibsiz.\n🤖 Bu bot <b>Instagram</b> dan istagan videongizni yuklab beradi!\n\n👉 Boshlash uchun video havolasini yuboring:",
+  "startText2": "🔗 <b>Video havolasini yuboring...</b>",
+  "helpText": "🤖 Bu bot <b>Instagram</b>dan istalgan videoni yuklab beradi!\n\n⚡️ Asosiy buyruqlar:\n\n/start <b>- Botni ishga tushirish</b>\n/help <b>- Bot haqida</b>\n👨‍💻 Yaratuvchi <b>- Yaratuvchi haqida</b>\n\n<b>Va istalgan video havolasi yuborish!</b>",
+  "errorLink": "❌ <b>To'g'ri manzil yuboring...</b>",
+  "downloadError": "❌ <b>Yuklab olishda xatolik yuz berdi...</b>",
+  "botMessage": "💥 Самый лучший: @Instagraam_Downloader_bot",
+  "buttonMessage": "Bu botning yaratuchisi: <b>👨‍💻Asqarov Bexruz</b>\nTaklif yoki shikoyatlar bolsa: @Web_BekxruzMe"
+}
